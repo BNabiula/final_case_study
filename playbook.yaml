@@ -1,0 +1,5 @@
+---
+- import_playbook: Badge/aclconfiguration.yaml
+- import_playbook: Badge/Backups.yaml
+- import_playbook: Badge/ospf.yaml
+- import_playbook: Badge/iprouteconfig.yaml
